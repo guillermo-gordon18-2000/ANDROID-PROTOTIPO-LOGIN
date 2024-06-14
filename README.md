@@ -93,7 +93,7 @@ El objetivo principal del proyecto es optimizar la experiencia del usuario media
 
 Primero, clona el repositorio en tu máquina local:
  ```bash
-git clone https://github.com/guillermo-gordon18-2000/Programa-Login-BAKL.git
+git clone https://github.com/guillermo-gordon18-2000/ANDROID-PROTOTIPO-LOGIN.git
  ```
 ### Abrir el Proyecto en Android Studio
 
